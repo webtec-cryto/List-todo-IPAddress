@@ -1,0 +1,21 @@
+body {
+   background: cadetblue; 
+
+}
+
+h1 {
+   font-family: sans-serif; 
+   text-align:center; 
+   padding-top: 14px; 
+   margin: 15px; 
+   font-size: 60px; 
+
+}
+
+
+p {
+   font-family: sans-serif; 
+   color: #907400;
+   text-align: center;  
+    
+}
